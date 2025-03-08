@@ -41,22 +41,7 @@ El dashboard de Power BI proporciona análisis detallados mediante métricas y v
 
 - **Power BI** (Visualización y modelado de datos)
 - **FAMA** (Gestión de órdenes de trabajo y SLA)
-- **Power Query** (Transformación de datos dentro de Power BI)
 
-## 🚀 Próximos Pasos
 
-- Optimización de medidas DAX para mejorar el rendimiento.
-- Desarrollo de alertas automáticas para el incumplimiento de SLA.
-- Mejora en la gestión de datos de espacios para facilitar análisis estratégicos.
 
----
 
-### 📢 Contribución
-
-Si deseas colaborar o realizar sugerencias sobre este proyecto, ¡no dudes en ponerte en contacto!
-
-📧 Contacto: [Tu correo o perfil de LinkedIn]
-
----
-
-Este informe es una herramienta clave en la gestión de Facility Management, ayudando a optimizar procesos y mejorar la eficiencia operativa a través de datos y automatización.
